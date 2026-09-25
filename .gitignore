@@ -18,3 +18,7 @@ venv/
 
 # Logs
 *.log
+# Uploaded resumes and local data
+data/
+*.sqlite
+*.sqlite3
